@@ -1,4 +1,4 @@
-## NEXT
+## v0.1.0
 
 - Add functionality to calculate the bonus
 
